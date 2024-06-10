@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaacjon
 - 👀 I’m interested in Progamming, Coding and Computer Science in general
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently workin as a Frontend developer(Next.js, React.js, Vue.js)
 - 💞️ I’m looking to collaborate on Anything related to Javascript
 - 📫 How to reach me t.me//Az1mofff
 
